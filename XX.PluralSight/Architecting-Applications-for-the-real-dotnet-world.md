@@ -1,6 +1,6 @@
 # Architecting applications for the real .net world
 
-(pluralsight.com)[https://app.pluralsight.com/library/courses/architecting-applications-dotnet/table-of-contents]
+[pluralsight.com](https://app.pluralsight.com/library/courses/architecting-applications-dotnet/table-of-contents)
 
 ## 1. Real world architectural thinking
 

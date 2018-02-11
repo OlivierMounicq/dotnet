@@ -1,3 +1,6 @@
+# Making dotnet application even faster
+
+[Making dotnet application even faster](https://app.pluralsight.com/library/courses/making-dotnet-applications-even-faster/table-of-contents)
 
 ## 1. Garbage collection internals
 
